@@ -92,7 +92,9 @@ Para detalhes completos sobre a implementação eletrônica e de software, consu
 ```
 kundt-mdf-structure/
 │
-├── design-files/      # Arquivos de corte (CDR, DXF e SVG)
+├── Estrutura do Tubo de Kundt.cdr
+├── Estrutura do Tubo de Kundt.dxf
+├── Estrutura do Tubo de Kundt.svg      
 ├── README.md
 └── LICENSE
 ```
